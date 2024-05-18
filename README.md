@@ -23,4 +23,3 @@
 
 [![An image of @madalapurevaishnavi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madalapurevaishnavi)](https://holopin.io/@madalapurevaishnavi)
 
-[![An image of @madalapurevaishnavi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madalapurevaishnavi)](https://holopin.io/@madalapurevaishnavi)
