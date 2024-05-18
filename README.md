@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madalapurevaishnavi&show_icons=true&locale=en" alt="madalapurevaishnavi" /></p>
 
-
+[![An image of @madalapurevaishnavi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madalapurevaishnavi)](https://holopin.io/@madalapurevaishnavi)
