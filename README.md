@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madalapurevaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="madalapurevaishnavi" /> </p>
 
 
-- 💬 Ask me about **HTML,CSS,Java**
+- 💬 Ask me about **HTML,CSS,Java,Javascript,React,Express**
 
 - 📫 How to reach me **madlapurevaishnavi@gmail.com**
 
