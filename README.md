@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently persuing B.E in Information Technology<br>💬 Ask me about CSS, Python, Java,Javascript<br>🧑🏻‍💻 Currently I am Working on Mern Stack Projects
- 
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-madalapure-500829269/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/vaishnavi_m03) 
